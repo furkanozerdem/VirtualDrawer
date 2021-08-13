@@ -24,7 +24,7 @@ And then you can move your hand the point you want to start drawing again.
 
 ![alt text](https://github.com/furkanozerdem/VirtualDrawer/blob/main/hands/choose.png)
 
-This mode is to open up color palette you can use on the top of frame. Move your hand (follows end of your index finger) the color you want to draw. And that's it! You are clear to draw. 
+This mode is to open up color palette you can use on the top of frame. Move your hand (follows end of your index finger) the color you want to draw. And that's it! You are ready to draw. 
 
 
 ### 4- Cleaning mode
