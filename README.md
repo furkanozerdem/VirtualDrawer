@@ -36,3 +36,6 @@ So you can easily remove your drawings.
 
 Tip: If you want to clean up faster, you can move your hand to camera a little bit. By this way, you increase your cleaning area on the camera frame.
 
+
+https://www.linkedin.com/posts/muhammed-furkan-%C3%B6zerdem-b574ba183_herkese-merhabalar-sizlere-g%C3%B6r%C3%BCnt%C3%BC-i%C5%9Fleme-activity-6821568860655824896-yVrk?utm_source=share&utm_medium=member_desktop&rcm=ACoAACtSpPMBzgfBeWZDM2NcB9X9cCA34WihqbU
+
